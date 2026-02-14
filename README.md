@@ -1,4 +1,4 @@
-Files necessary to make UTRec work with the practice mod.
+Files necessary to make UTRec work with the practice mod. It is Windows exclusive.
 
 Download the latest version [here](https://example.com)
 
