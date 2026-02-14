@@ -13,3 +13,4 @@ Notes.
 * Using this "extension" may affect performance. You are pretty much guaranteed to get a lag spike when you end a recording or take a clip.
 * Recorded videos are not legal for leaderboard submissions.
 * Audio might be weird in recordings. For example a music that's already playing when recording starts won't be present in the video.
+* Encoded videos are placed in your save folder in the recordings/ directory. If you don't change the name from recording.mp4, it'll get overwritten by the next encoded video.
